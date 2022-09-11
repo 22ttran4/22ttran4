@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @22ttran4
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning java script and C++
-- 💞️ I’m looking to collaborate on new beginner code...
-- 📫 How to reach me message in github...
+- 🌱 I’m currently learning java and C++ 
+- Currently enrolling at OCC as CS major nice to meet your acquaintance
+
 
 <!---
 22ttran4/22ttran4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
